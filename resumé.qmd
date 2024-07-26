@@ -1,0 +1,166 @@
+---
+title: "Guillermo Andrés Rodríguez Rondón M.D."
+subtitle: "Resumé"
+author: "Guillermo Andres Rodriguez Rondón"
+date: "July 25 2024"
+format: 
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: false
+    css: styles.css
+---
+
+# Contact Information
+
+- **Address:** 700 SW 107th Avenue, Miami, FL 33174  
+- **Phone:** 305-987-0500 / +57 3208399515
+- **Email:** grodr487@fiu.edu, guillermoandres_harvard@hotmail.com
+- **Github:** [https://github.com/guillermoandresrodriguezrondon](https://github.com/guillermoandresrodriguezrondon)
+- **Linkedin:** [https://www.linkedin.com/in/guillermo-andres-rodr%C3%ADguez-rond%C3%B3n-a34029303/](https://www.linkedin.com/in/guillermo-andres-rodr%C3%ADguez-rond%C3%B3n-a34029303/)
+
+# Profile
+
+Medical Doctor. Specialization in health quality management. Master's in epidemiology. Business administrator and economist. Candidate for a master's in public health and biostatistics at Florida International University. More than 15 years of experience in the health sector as a doctor and also as a manager and researcher, I have learned about the complexities of social problems, health inequities, and the interdependence between politics, economy, culture, and scientific knowledge. Unfortunately, many times we are biased with a single perspective and forget the whole, which prevents us from effectively solving problems in the real world. My goal is to have a more holistic and closer view of reality and to be able to contribute to the improvement of living and health conditions in communities. I am also fascinated by the design of research projects, the development of new products/services, and pushing the boundaries of knowledge in various fields. I have extensive experience in leading health teams and research projects; also in coordinating emergency services, hospitalization, home medicine, and referral/contra-referral services, as well as extensive experience as a scientific liaison physician (MSL).
+
+# Education
+
+- **Pontificia Universidad Javeriana** (1999 - 2005)
+  - **Degree:** Medical Doctor and Surgeon
+
+- **Universidad El Bosque** (2006 - 2007)
+  - **Degree:** Specialization in Health Care Quality Management
+
+- **Universidad El Bosque** (2018 - 2019)
+  - **Degree:** Master's in Epidemiology
+
+- **Universidad EAN** (2017 - 2021)
+  - **Degree:** Bachelor in Business Administration
+
+- **Universidad EAN** (2017 - 2022)
+  - **Degree:** Bachelor in Economics
+
+- **Florida International University** (2023 - 2025)
+  - **Degree:** MPH (Master’s in Public Health) with an emphasis in Biostatistics (Candidate)
+
+# Language Proficiency
+
+- **German:** A1
+- **English:** Advanced C1 (IELTS and TOEFL certified)
+- **Spanish:** Native speaker
+
+# Research Groups
+
+- **Public and Community Health Group, Universidad El Bosque**, (Mar 2020 - Present)
+  - **Role:** Member, linked to the Colombian Ministry of sciences (CVLAC)
+  - **Location:** Bogotá / Colombia
+
+CVLAC: [https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001764402#textos](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001764402#textos)
+
+# Work Experience 
+
+- **CDC** (Center for Disease Control and Prevention) **- INS** (National Institute of Health of Colombia) (Jan 2022 - Jan 2023)
+
+  - **Role:** Project Coordinator and main scientific adviser of a case control study to identify the risk factors for secondary infections of the low respiratory track in patients infected with Covid 19 in Colombia.
+   - **Location:** Bogotá / Colombia
+
+- **Fundación Sin Fronteras** (Mar 2011 - Feb 2023)
+  - **Role:** Medical Coordinator
+  - **Location:** Bogotá / Colombia
+
+- **Capital Salud EPS** (Apr 2021 - Jul 2023)
+  - **Role:** Site Coordinator, Chief of medical cost (Non-PBS Medications), Medical Auditor
+  - **Location:** Bogotá / Colombia
+
+- **Pandonia** (Apr 2021 - Dec 2021)
+  - **Role:** Research Head - Anti aging medicine.
+  - **Location:** Copenhagen / Denmark
+
+- **Grupo Latino** (Mar 2017 - Apr 2021)
+  - **Role:** MSL, Medical Writer, Medical Director
+   - **Location:** Bogotá / Colombia
+
+- **AGM** (Aug 2019 - Dec 2020)
+  - **Role:** Medical Auditor and Emergency Services Coordinator
+   - **Location:** Bogotá / Colombia
+
+- **Abbvie** (Dec 2015 - Jun 2018)
+  - **Role:** MSL (medical scientific liason)
+   - **Location:** Bogotá / Colombia
+
+- **SaludCoop EPS** (Aug 2013 - Nov 2015)
+  - **Role:** Regional Manager of Home Services (2 million users and hundreds of services provided)
+   - **Location:** Bogotá / Colombia
+
+- **Colsubsidio IPS** (May 2011 - Oct 2012)
+  - **Role:** Site Manager, Medical Auditor, Patient Safety Coordinator
+   - **Location:** Bogotá / Colombia
+
+- **Fundación Cardioinfantil** (Jan 2008 - Aug 2009)
+  - **Role:** Emergency Physician, Medical Auditor
+   - **Location:** Bogotá / Colombia
+
+- **Hospital Simón Bolívar** (Mar 2006 - Aug 2008)
+  - **Role:** Burn Unit Physician
+   - **Location:** Bogotá / Colombia
+
+- **Armada Nacional** (Apr 2005 - Nov 2005)
+  - **Role:** Rural Physician
+   - **Location:** Bogotá / Colombia
+
+# Publications
+
+- **Mar 2010 - Mar 2023:** Systematic review and meta-analysis on the use of anabolic steroids in patients with malnutrition and HIV/AIDS- AIDS journal.
+- **Vademécum de Especialidades Farmacéuticas:** Group Latino editors (co-author).
+- **Vademécum de Especialidades Farmacéuticas:** Thompson PLM (co-author).
+
+# Honors
+
+- Best student of the epidemiology master's cohort, Universidad El Bosque.
+- Meritorious thesis in the epidemiology master's, Universidad El Bosque.
+- Selected by Colfuturo for the 50,000 USD scholarship-loan program.
+- Selected by the OAS-Colorado State University scholarship worth 38,000 USD.
+- Selected for the prestigious Dean’s Scholarship of the University of Washington in St. Louis, School of Public Health, worth 40,000 USD.
+- Finalist for the Fulbright Commission scholarship for doctoral studies in the US.
+- Winner of a 100% tuition scholarship from UCL-Colfuturo for a master's in Pharmaceutical Formulation and Entrepreneurship.
+- Best score in the Saber Pro-2022 exam in Business Administration/Economics.
+- Exempt from the final exam of Neuroanatomy and Physiology I and II at Universidad Javeriana for outstanding performance.
+- Recognized for excellent performance as a rural doctor in the National Navy's Fluvial Battalion No. 20, Turbo Antioquia.
+
+# Teaching Experience
+
+- **Universidad EAN** (Jan 2019 - Apr 2019)
+  - **Role:** Teaching Assistant in Administrative Theories 
+
+- **Universidad Javeriana** (Feb 2000 - Jul 2000)
+  - **Role:** Teaching Assistant in Human Physiology 
+
+- **Universidad El Bosque** (Sep 2021 - Present)
+  - **Role:** Associate Professor of Public Health in Urban Settings 
+
+- **Universidad Javeriana** (Sep 2022)
+  - **Role:** Guest Lecturer in History of Economic Ideas 
+
+
+# Skills
+
+- Excel, SPSS, STATA, SAS, R Studio, Power BI, Access, SQL.
+- Scientific Research: extensive experience in conducting and managing clinical research including systematic reviews and meta-analyses.
+- Regulatory Compliance: deep understanding of healthcare regulations crucial for roles in the pharmaceutical industry and public institutions.
+- Project Management.
+
+
+# Extracurricular Activities
+
+- **Feb 2018 - Nov 2019:** Volunteer for Dr. Diego Molano's political campaign for Bogotá mayoralty.
+- **Feb 2015 - Jun 2022:** Entrepreneur at Pain and Gain, a company dedicated to selling nutritional supplements, sportswear, and equipment.
+- **Jan 2021 - Jun 2022:** Entrepreneur in the construction of a solar park in Purificación, Tolima.
+
+
+# Hobbies
+
+- Writing
+- Photography
+- Animal Lover
+- Gym
